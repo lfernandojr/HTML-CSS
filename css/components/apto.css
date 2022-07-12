@@ -1,0 +1,14 @@
+.apto {
+    box-sizing: border-box;
+    background-color: #041302;
+    height: 730px;
+    border-bottom: #00ff0d 10px solid;
+}
+
+.apto .select {
+    color: #fff;
+    text-align: center;
+    font-family: 'Press Start 2P', sans-serif;
+    font-size: 30px;
+    padding-top: 50px;
+}
