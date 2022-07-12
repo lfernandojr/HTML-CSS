@@ -8,7 +8,55 @@
 .apto .select {
     color: #fff;
     text-align: center;
-    font-family: 'Press Start 2P', sans-serif;
-    font-size: 30px;
+    font-family: 'Press Start 2P';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 40px;
     padding-top: 50px;
+    padding-bottom: 60px;
 }
+
+.apto .itens {
+    display: flex;
+    align-items: center;
+    font-family: 'Press Start 2P';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 25px;
+    color: #fff;
+    justify-content: center;
+    padding: 0px 50px 40px 50px;
+    height: 90px;  
+
+}
+
+.apto .itens1 {
+    display: flex;
+    justify-content: center;
+
+}
+
+
+.apto .itens .imagsize {
+        
+        width: 90px;
+        margin-right: 25px
+    }
+
+
+    .apto .bar {
+        display: flex;
+        background-color: #fff;
+        border: 5px solid #000;
+        width: 320px;
+        height: 40px;
+        margin-top: 16px;
+        
+        }
+
+            
+.apto .bar .title {
+            margin-bottom: 28px;
+        }
