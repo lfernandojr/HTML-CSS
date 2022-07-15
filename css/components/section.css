@@ -3,41 +3,10 @@
     background-color: #041302;
     height: 730px;
     border-bottom: #00ff0d 10px solid;
-    padding-top: 50px;
     padding-bottom: 100px;
 }
 
-.section.itens {
-    display: flex;
-    align-items: center;
-    font-family: 'Press Start 2P';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 25px;
-    line-height: 25px;
-    color: #fff;
-    justify-content: center;
-    padding: 0px 50px 40px 50px;
-    height: 90px;  
-
-}
-
-.section .itens1 {
-    display: flex;
-    justify-content: center;
-    margin-top: 50px;
-
-}
-
-
-.section .itens .imagsize {
-        
-        width: 90px;
-        margin-right: 25px
-    }
-
-
-    .section .bar {
+.section .bar {
         display: flex;
         background-color: #fff;
         border: 5px solid #000;
@@ -47,7 +16,11 @@
         
         }
 
-            
-.section .bar .title {
-            margin-bottom: 28px;
-        }
+
+
+.section .colums {
+    display: flex;
+    justify-content: space-evenly;
+
+
+}

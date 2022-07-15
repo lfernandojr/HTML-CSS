@@ -6,6 +6,34 @@ text-align: center;
 padding: 42px 44px;
 }
 
-.box .title {
-    margin-bottom: 28px;
+.box._project {
+    display: flex;
+    width: 280px;
+    height: 280px;
+    box-shadow: 10px 10px 0px #FFF;
+    padding: 20px;
+}
+
+.box._project.content.first {
+    
+    object-fit: scale-down;
+    background-color: #007406;
+}
+
+.box._project.content.second {
+    
+    object-fit: scale-down;
+    background-color: #0074063A4042 ;
+}
+
+.box._project.content.thirdth {
+    
+    object-fit: scale-down;
+    background-color: #00ff0d;
+}
+
+.box._project.content.fourth {
+    
+    object-fit: scale-down;
+    background-color: #4e000c;
 }
