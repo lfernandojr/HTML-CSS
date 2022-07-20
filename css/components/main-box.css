@@ -1,4 +1,4 @@
-.box {
+.main-box {
 display: inline-block;
 background-color: #3A4042;
 box-shadow: 10px 10px 0px #000;
@@ -6,7 +6,7 @@ text-align: center;
 padding: 42px 44px;
 }
 
-.box._project {
+.main-box._project {
     display: flex;
     width: 280px;
     height: 280px;
@@ -14,29 +14,29 @@ padding: 42px 44px;
     padding: 20px;
 }
 
-.box._project.content {
+.main-box._project.content {
     
     max-width: 240px;
 
 }
 
-.box._project.content.first {
+.main-box._project.content.first {
     
     background-color: #007406;
     object-fit: scale-down;
 }
 
-.box._project.content.second {
+.main-box._project.content.second {
     
     background-color: #3A4042 ;
 }
 
-.box._project.content.third {
+.main-box._project.content.third {
    
     background-color: #00ff0d;
 }
 
-.box._project.content.fourth {
+.main-box._project.content.fourth {
   
     background-color: #4e000c;
 }
