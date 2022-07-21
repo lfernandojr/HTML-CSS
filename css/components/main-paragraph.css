@@ -1,0 +1,9 @@
+.main-paragraph {
+    margin-left: auto;
+    margin-right: auto;
+    font-family: "Fira Code", Arial, Helvetica, sans-serif;
+    font-weight: 300;
+    font-size: 30px;
+    color: #007406;
+    max-width: 1280px;
+}
